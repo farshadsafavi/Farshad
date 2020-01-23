@@ -4,6 +4,9 @@
 
 layout: home
 ---
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body>
 <style>
 img {
   float: right;
@@ -21,6 +24,8 @@ My name is Farshad Safavi. I have Master of computer engineering from University
 I am a computer engineer who has a great passion about building software products using Artificial Intelligence (AI). I have developed and deployed various large scaled software products. <br>
 The main purpose of this page is to introduce you to number of projects I am very interested in and the project I have accomplished in the past. </font></div>
 <br>
+</body>
+</html>
 
 
 
