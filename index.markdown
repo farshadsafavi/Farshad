@@ -4,13 +4,6 @@
 
 layout: home
 ---
-
-
-<style>
-img {
-  float: left;
-}
-
 <style>
 img {
   float: right;
