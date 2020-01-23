@@ -1,2 +1,0 @@
-# Farshad
-Personal Website
