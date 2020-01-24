@@ -5,11 +5,9 @@ permalink: /Projects/
 ---
 
 You can find my projects here:
-- [Machine Learning](https://github.com/farshadsafavi/MachineLearning/)
 - [Deep Learning](https://github.com/farshadsafavi/DeepLearning/)
 - [Deep Learning course](https://github.com/farshadsafavi/deep-learning-v2-pytorch)
 
 
-|![Mobile Application](assets/Mobile.jpg) [Creative Mobile Application](https://github.com/farshadsafavi/Android-Applications/)|![Cloud Computing](assets/Cloud.jpg) [Cloud Computing](https://github.com/farshadsafavi/Cloud-Computing/)
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|![Mobile Application](assets/Mobile.jpg) [Creative Mobile Application](https://github.com/farshadsafavi/Android-Applications/)|![Cloud Computing](assets/Cloud.jpg) [Cloud Computing](https://github.com/farshadsafavi/Cloud-Computing/)|![Machine Learning](assets/Machine.jpg) [Machine Learning](https://github.com/farshadsafavi/MachineLearning/) | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
 |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
