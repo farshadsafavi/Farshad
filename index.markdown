@@ -20,12 +20,6 @@ My name is Farshad Safavi. I have Master of computer engineering from University
 I am a computer engineer who has a great passion about building software products using Artificial Intelligence (AI). I have developed and deployed various large scaled software products. I am currently developing software to architect different deep learning models including convolutional neural networks(CNN) , recurrent neural networks(RNN) and generative adversarial networks(GAN) using Python and PyTorch. I’d love to combine my passion for AI with my software development skills to build smart products of the future.
 Skills: Python, Java, C++, OOP, PyTorch. <br>
 The main purpose of this page is to introduce you to number of projects I am very interested in and the project I have accomplished in the past. </div>
-<div id="mySidenav" class="sidenav">
-  <a href="jekyll/update/2020/01/22/welcome-to-jekyll.html" id="about">About</a>
-  <a href="jekyll/update/2020/01/22/welcome-to-jekyll.html" id="blog">Blog</a>
-  <a href="Projects" id="projects">Projects</a>
-  <a href="Projects" id="contact">Contact</a>
-</div>
 
 
 
