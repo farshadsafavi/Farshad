@@ -10,4 +10,4 @@ You can find my projects here:
 |![Cloud-Computing](assets/Cloud.jpg) -[Cloud Computing](https://github.com/farshadsafavi/Cloud-Computing/)|
 |![Machine Learning](assets/Machine.jpg) -[Machine-Learning](https://github.com/farshadsafavi/MachineLearning/)|
 |![Deep Learning](assets/Deep.jpg) -[Deep Learning](https://github.com/farshadsafavi/DeepLearning/)|
-|![Cloud Computing](assets/DeepC.jpg) -[Deep-Learning-course](https://github.com/farshadsafavi/deep-learning-v2-pytorch)|
+|![Cloud Computing](assets/DeepC.png) -[Deep-Learning-course](https://github.com/farshadsafavi/deep-learning-v2-pytorch)|
